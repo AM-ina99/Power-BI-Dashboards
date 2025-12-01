@@ -11,7 +11,7 @@ This project analyzes the **New York City Airbnb dataset** to explore pricing tr
 - **Minimum nights required** for bookings  
 - **Room type distribution** (Entire home/apt, Private room, Shared room)  
 - **Listings concentration map** using Latitude & Longitude  
-- **Top hosts** by number of reviews and listing count  
+- **Top hosts** by listing count  
 
 ---
 
@@ -30,8 +30,6 @@ This project analyzes the **New York City Airbnb dataset** to explore pricing tr
   - Reviews by host  
   - Room type counts  
 - **Geographical map** showing listing density and price clusters  
-- Fully styled dashboard with rounded cards and custom theme  
-
 ---
 
 ## 🎯 Goal
@@ -44,7 +42,7 @@ To demonstrate skills in:
 ---
 
 ## 📚 Dataset
-Source: Kaggle – *“New York City Airbnb Open Data”*  
+Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 Includes:
 - Price  
 - Room type  
