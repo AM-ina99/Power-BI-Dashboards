@@ -18,7 +18,7 @@ The report covers delivery performance, sales insights, customer behavior, and p
 ---
 
 ### **Product Rating Dashboard**
-![Product Rating](page3.PNG)
+![Product Rating](page 3.PNG)
 
 ---
 
