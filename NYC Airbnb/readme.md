@@ -5,7 +5,7 @@ This project analyzes the **New York City Airbnb dataset** to explore pricing tr
 ---
 
 ### **NYC Airbnb Dashboard**
-![NYC Airbnb](nyc-airnb-dashboard.PNG)
+![NYC Airbnb]("nyc airnb dashboard.PNG")
 
 ## 📊 Key Insights
 - **Average price** of Airbnb listings across NYC boroughs  
