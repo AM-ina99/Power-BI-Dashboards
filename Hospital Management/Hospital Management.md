@@ -1,5 +1,8 @@
 # 🏥 Hospital Management Dashboard (Power BI)
 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/987ed335-5c08-4ca8-b02e-5f62a4a8239e" />
+
+
 ## 📌 Overview
 This project presents a comprehensive **Hospital Management Dashboard** built using **Power BI**.  
 It provides insights into hospital operations, patient distribution, financial performance, and time-based trends to support data-driven decision-making.
